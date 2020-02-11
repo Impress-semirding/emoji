@@ -1,0 +1,22 @@
+{
+  "name": "emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Impress-semirding/emoji.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Impress-semirding/emoji/issues"
+  },
+  "homepage": "https://github.com/Impress-semirding/emoji#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
